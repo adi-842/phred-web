@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/phred-web/static/css/main.1ed48ed1.css",
+    "main.js": "/phred-web/static/js/main.195223c6.js",
+    "static/js/787.4c71efe5.chunk.js": "/phred-web/static/js/787.4c71efe5.chunk.js",
+    "static/media/logo.svg": "/phred-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/phred-web/index.html",
+    "main.1ed48ed1.css.map": "/phred-web/static/css/main.1ed48ed1.css.map",
+    "main.195223c6.js.map": "/phred-web/static/js/main.195223c6.js.map",
+    "787.4c71efe5.chunk.js.map": "/phred-web/static/js/787.4c71efe5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed48ed1.css",
+    "static/js/main.195223c6.js"
+  ]
+}
